@@ -1,4 +1,10 @@
 {
+    "autoload" : {
+        "psr-4": {
+            "Acme\\" : "src/acme"
+        }
+    },
+
     "name": "a-tanaka/phpbench-getting-started",
     "license": "MIT",
     "require": {},
